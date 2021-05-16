@@ -1,4 +1,4 @@
 # Update History of **OkiCoide**
-## Yr: 2021
-### Mon: MAY
-#### Dat: 16
+\\
+## MAY 16 of 2021
++ Complete the synchronization of P1003 on [Luogu](https://www.luogu.com.cn)
