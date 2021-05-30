@@ -1,6 +1,34 @@
 #include <cstdio>
 #include <algorithm>
 #define N 300007
+inline int read(){  
+   int s=0,w=1;  
+   char ch=getchar();  
+   while(ch<'0'||ch>'9'){if(ch=='-')w=-1;ch=getchar();}  
+   while(ch>='0'&&ch<='9') s=s*10+ch-'0',ch=getchar();  
+   return s*w;  
+} 
+inline void write(int x)
+{
+    char ch[20];
+    int len=0;
+    //ch里面存的是从低到高的数字的ASCLL码 len是数组长度 
+    if(x<0)//如果x是负数，那么先输出负号，再把x变成正数 
+      {
+        putchar((1<<5)+(1<<3)+(1<<2)+1);
+        //(1<<5)+(1<<3)+(1<<2)+1就是'-'的ASCLL码值 
+        x=~x+1;//x=~x+1;就等同于x=-x;
+      }
+    do//用do while可以防止x=0的特殊情况 
+      {
+        ch[len++]=x%10+(1<<4)+(1<<5);//取出最低位存到ch数组里面 因为ch是字符数组，所以要加上0的ASCLL码 
+        x/=10;//砍掉最低位 
+      }while(x>0);//当x>0的时候每次把x的最低位取出 
+    for(int i=len-1;i>=0;i--)//因为ch是从低到高存的x的绝对值，又因为要从高到低输出，所以倒着循环ch数组输出 
+       putchar(ch[i]);//输出从高到低的每一位 
+    putchar('\n');
+    return ;
+} 
 int n, m, pool;
 int a[N];
 int rt[N];
@@ -10,7 +38,7 @@ struct node
     int rc;
     int vl;
     node() { lc = rc = vl = 0; };
-} t[6000000];
+} t[20000000];
 void push_up(int k) { t[k].vl = t[t[k].lc].vl + t[t[k].rc].vl; }
 int build(int l, int r)
 {
@@ -47,37 +75,34 @@ int query(int k, int l, int r, int x)
     else res += query(t[k].rc, mid + 1, r, x);
     return res;
 }
-int get()
+inline int get()
 {
-    int l, r, c;
-    scanf("%d%d%d", &l, &r, &c);
+    int l = read(), r = read(), c = read();
     return query(rt[r], 1, N, c) - query(rt[l - 1], 1, N, c);
 }
-void set()
+inline void set()
 {
-    int x;
-    scanf("%d", &x);
+    int x = read();
     rt[x] = insert(rt[x], 1, N, a[x], -1);
     rt[x] = insert(rt[x], 1, N, a[x + 1], 1);
     std::swap(a[x], a[x + 1]);
 }
 int main()
 {
-    freopen("in.in", "r", stdin);
+    //freopen("in.in", "r", stdin);
     scanf("%d%d", &n, &m);
     rt[0] = build(1, N);
     for(int i = 1; i <= n; i++)
     {
-        scanf("%d", &a[i]);
-        rt[i] = insert(rt[i - 1], 1, N, a[i], 1);
-    }
+        a[i] = read();
+        rt[i] = insert(rt[i - 1], 1, N, a[i], 1);   
+    }    
     for(; m != 0; m--)
     {
         int opt;
-        scanf("%d", &opt);
-        if(opt == 1) printf("%d\n", get());
+        opt = read();
+        if(opt == 1) write(get());
         if(opt == 2) set();
     }
     return 0;
 }
-
