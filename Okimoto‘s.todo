@@ -30,11 +30,11 @@
   ✔ BZOJ-2820 YY的GCD @done (22-08-16 22:11)
     ::Luogu-P2257
   ✔ BZOJ-4804 欧拉心算 @done (22-08-16 23:28)
-  ☐ BZOJ-3518 点组计数
+  ✔ BZOJ-3518 点组计数 @done (22-08-17 22:58)
   ☐ POJ-3090 Visible Lattice Points
   ✔ Luogu-P3312 数表 @done (22-08-17 22:41)
 
-2022.8.15 混合专题训练:
+2022.8.15 混合专题训练（DP和图论建模）:
 
   ✔ Luogu-P7587 MARS @done (22-08-15 20:29)
   ☐ Luogu-P7759 PROCESOR
@@ -43,7 +43,7 @@
   ✔ Luogu-P6418 ZABAVA @done (22-08-15 20:29)
   ✔ Luogu-P7676 TROKUTI @done (22-08-15 20:29)
   
-2022.8.16 混合专题训练:
+2022.8.16 混合专题训练（栈和线段树）:
   
   ✔ Luogu-P4810 STOGOVI @done (22-08-16 21:54)
   ✔ Luogu-P7229 SLON @done (22-08-16 21:54)
