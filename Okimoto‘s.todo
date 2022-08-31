@@ -1,4 +1,10 @@
-2022.8.1 贪心基础专题1:
+2022年·第〇阶段 CSP2022前:
+
+  ☐ 2022.9.20前，清空 2022年·第〇阶段 所有题目 @critical
+  ☐ 2022.9.30前，完成对 2022年·第〇阶段 中五分之一以上题目的复盘和笔记撰写 @high
+  ☐ 2022.10.7前，完成对 2022年·第壹阶段 题单的总体规划部署 @low
+
+2022.8.1 贪心基础专题:
   
   ✔ UVA-10382 Watering Grass @done (22-08-01 20:11)
     ::LibreOJ-10002
@@ -9,7 +15,7 @@
   ✔ Luogu-P3124 Trapped in the Haybales S @done (22-08-04 20:09)
   ✔ Luogu-P3076 Taxi G @done (22-08-06 19:45)
 
-2022.8.7 图论基础专题1（tarjan）:
+2022.8.7 图论基础专题（tarjan）:
 
   ✔ Luogu-P1656 炸铁路 @done (22-08-07 20:02)
   ✔ POJ-1144 Network @done (22-08-08 19:55)
@@ -31,9 +37,9 @@
     ::Luogu-P2257
   ✔ BZOJ-4804 欧拉心算 @done (22-08-16 23:28)
   ✔ BZOJ-3518 点组计数 @done (22-08-17 22:58)
-  ☐ POJ-3090 Visible Lattice Points
+  ✔ POJ-3090 Visible Lattice Points @done (22-08-18 22:05)
   ✔ Luogu-P3312 数表 @done (22-08-17 22:41)
-  ✔ P2522 Problem b @done (22-08-18 21:52)
+  ✔ Luogu-P2522 Problem b @done (22-08-18 21:52)
 
 2022.8.15 混合专题训练（DP和图论建模）:
 
@@ -52,3 +58,72 @@
   ☐ Luogu-P7230 NEKAMELEONI
   ✔ Luogu-P7231 DOMINO @done (22-08-16 21:54)
   ☐ Luogu-P8037 PROKLETNIK
+
+2022.8.18 混合专题训练（连通块，树和DP）:
+  
+  ✔ Luogu-P6405 ŠUMA @done (22-08-20 09:20)
+  ☐ Luogu-P4811 KAMIONI
+  ✔ Luogu-P7179 STANOVI @done (22-08-20 09:21)
+  ✔ Luogu-P7177 MRAVI @done (22-08-20 09:23)
+  ✔ Luogu-P8046 CHEWBACCA @done (22-08-20 09:23)
+  ✔ Luogu-P7800 PAROVI @done (22-08-20 09:23)
+
+2022.8.19 数据结构优化专题:
+
+  ☐ CF-702F T-Shirts
+  ☐ HYSBZ-5312 冒险
+  ☐ UOJ-671 诡异操作
+  ☐ Luogu-P6792 区间和
+  ✔ Luogu-P3332 K大数查询 @done (22-08-20 09:41)
+  ☐ LibreOJ-121 动态图连通性
+  ☐ Luogu-P4338 历史
+  ☐ Gym-102331J Jiry Matchings
+
+2022.8.20 莫比乌斯反演专题:
+
+  ✔ Luogu-P3327 约数个数和 @done (22-08-21 14:02)
+  ✔ Luogu-P4449 于神之怒加强版 @done (22-08-21 15:53)
+  ✔ Luogu-P1829 JZPTAB @done (22-08-21 16:38)r
+  ✔ Luogu-P4213 【模板】杜教筛 @done (22-08-21 18:11)
+  ✔ Luogu-P3768 简单的数学题 @done (22-08-21 20:34)
+  ✔ AT-5200 LCMs @done (22-08-22 09:48)
+  ✔ Luogu-P5221 Product @done (22-08-22 16:18)
+  ✔ Luogu-P6156 简单题 @done (22-08-22 22:32)
+  ✔ Luogu-P6222 简单题[加强版] @done (22-08-22 22:32)
+  ✔ CF-1139D Steps to One @done (22-08-23 15:33)
+  ✔ Luogu-P3704 数字表格 @done (22-08-24 10:25)
+  ✔ Luogu-P5518 幽灵乐团 @done (22-08-25 19:13)
+  ✔ Luogu-P3700 小Q的表格 @done (22-08-26 17:31)
+  ☐ Luogu-P4464 JZPKIL
+
+2022.8.27 线性代数专题（矩阵加速、高斯消元和线性基）:
+
+  ✔ Luogu-P3389 【模板】高斯消元法 @done (22-08-27 15:30)
+  ✔ Luogu-P2455 线性方程组 @done (22-08-27 16:33)
+  ✔ Luogu-P1939 【模板】矩阵加速（数列） @done (22-08-27 17:33)
+  ✔ Luogu-P3758 可乐 @done (22-08-27 19:40)
+    ::Luogu-P5789 可乐（数据加强版）
+  ✔ Luogu-P2886 Cow Relays G @done (22-08-28 16:15)
+  ✔ Luogu-P3812 【模板】线性基 @done (22-08-28 17:51)
+  ✔ Luogu-P4839 P哥的桶 @done (22-08-28 20:24)
+  ✔ Luogu-P1707 刷题比赛 @done (22-08-29 10:48)
+  ✔ Luogu-P2233 公交车路线 @done (22-08-29 14:43)
+  ✔ CF-845G Shortest Path Problem? @done (22-08-29 17:38)
+  ✔ CF-895C Square Subsets @done (22-08-29 19:06)
+  ✔ Luogu-P5027 Barracuda @done (22-08-30 09:40)
+  ✔ Luogu-P2151 HH去散步 @done (22-08-30 11:43)
+  ✔ Luogu-P2011 计算电压 @done (22-08-30 15:22)
+  ✔ Luogu-P4151 最大XOR和路径 @done (22-08-29 17:15)
+  ✔ Luogu-P4838 P哥破解密码 @done (22-08-30 16:13)
+  ✔ Luogu-P2447 外星千足虫 @done (22-08-30 18:27)
+  ✔ Luogu-P4570 元素 @done (22-08-30 19:08)
+  ✔ Luogu-P3265 装备购买 @done (22-08-31 10:01)
+  ✔ Luogu-P4159 迷路 @done (22-08-31 11:21)
+  ✔ Luogu-P2973 Driving Out the Piggies G @done (22-08-31 15:40)
+  ✔ Luogu-P5607 无力回天 NOI2017 @done (22-08-31 19:14)
+  ✔ CF-587E Duff as a Queen @done (22-08-31 19:40)
+  ✔ Luogu-P1397 矩阵游戏 @done (22-08-31 20:21)
+  ☐ Luogu-P4111 小Z的房间
+  ☐ CF-959F Mahmoud and Ehab and yet another xor task
+  ☐ Luogu-P2044 随机数生成器
+  ☐ CF-1100F Ivan and Burgers
