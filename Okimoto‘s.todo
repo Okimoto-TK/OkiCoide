@@ -86,7 +86,7 @@
   ✔ Luogu-P1829 JZPTAB @done (22-08-21 16:38)r
   ✔ Luogu-P4213 【模板】杜教筛 @done (22-08-21 18:11)
   ✔ Luogu-P3768 简单的数学题 @done (22-08-21 20:34)
-  ✔ AT-5200 LCMs @done (22-08-22 09:48)
+  ✔ agc038_c LCMs @done (22-08-22 09:48)
   ✔ Luogu-P5221 Product @done (22-08-22 16:18)
   ✔ Luogu-P6156 简单题 @done (22-08-22 22:32)
   ✔ Luogu-P6222 简单题[加强版] @done (22-08-22 22:32)
@@ -123,7 +123,113 @@
   ✔ Luogu-P5607 无力回天 NOI2017 @done (22-08-31 19:14)
   ✔ CF-587E Duff as a Queen @done (22-08-31 19:40)
   ✔ Luogu-P1397 矩阵游戏 @done (22-08-31 20:21)
-  ☐ Luogu-P4111 小Z的房间
+  ✔ Luogu-P7112 【模板】行列式求值 @done (22-09-03 19:49)
+  ✔ Luogu-P6178 【模板】Matrix-Tree 定理 @done (22-09-03 20:43)
+  ✔ Luogu-P4111 小Z的房间 @done (22-09-03 21:34)
+  ☐ Luogu-P4336 黑暗前的幻想乡
+  ☐ Luogu-P3317 重建
   ☐ CF-959F Mahmoud and Ehab and yet another xor task
-  ☐ Luogu-P2044 随机数生成器
+  ☐ Luogu-P2044 随机数生成器 
+  ☐ Luogu-P4455 社交网络
   ☐ CF-1100F Ivan and Burgers
+  ☐ CF917D Stranger Trees
+  ☐ P3292 [SCOI2016]幸运数字
+  ☐ CF578F Mirror Box
+  ☐ CF156D Clues
+  ☐ SP104 HIGH - Highways
+  ☐ UVA10766 Organising the Organisation
+
+2022.9.4 NOIP模拟赛:
+
+  ✔ Gym-103687L Candy Machine @done (22-09-04 14:55)
+  ✔ Hydro-SZMS 2022P6 数列 @done (22-09-04 19:05)
+  ☐ Hydro-SZMS 2022P7 方差
+  ☐ Hydro-SZMS 2022P8 棋局
+
+2022.9.5 组合数学与期望专题:
+
+  ✔ Luogu-P1641 生成字符串 @done (22-09-05 09:45)
+  ✔ Luogu-P3200 有趣的数列 @done (22-09-05 10:22)
+  ✔ abc205_e White and Black Balls @done (22-09-05 11:47)
+  ✔ CF1204E Natasha, Sasha and the Prefix Sums @done (22-09-05 13:53)
+  ✔ CF1540B Tree Array @done (22-09-05 16:01)
+  ✔ agc028_b Removing Blocks @done (22-09-05 20:59)
+  ✔ HDU-3723 Delta Wave @done (22-09-06 09:20)
+  ✔ Luogu-P5155 Balance Beam P @done (22-09-06 14:13)
+  ✔ agc024_e Sequence Growing Hard @done (22-09-06 20:09)
+  ✔ agc013_e Placing Squares @done (22-09-06 22:32)
+  ☐ Luogu-P5014 P5014 水の三角(修改版)
+  ☐ CF896D Nephren Runs a Cinema
+  ☐ agc019_f Yes or No
+  ☐ P3266 骗我呢
+  ☐ Luogu-P1232 树的计数
+  ☐ agc016_f Games on DAG
+  ☐ Luogu-P6944 Gem Island
+  ☐ agc020_f Arcs on a Circle
+  ☐ CF605E Intergalaxy Trips
+  ☐ arc016_d 軍艦ゲーム
+  ☐ TC-SRM762_Div1_3 DistancePermutation 
+
+2022.9.7 数据结构专题（分块）:
+
+  -因为啥都不会所以先把板子打一打，做一做分块吧
+  ✔ Luogu-P7334 吊打 @done (22-09-07 20:56)
+  ✔ Luogu-P2464 郁闷的小J @done (22-09-07 21:23)
+  ✔ Luogu-P4135 作诗 @done (22-09-09 23:48)
+  ☐ Luogu-P6177 【模板】树分块
+  ☐ Luogu-P7424 天天爱射击
+  ☐ Luogu-P8330 众数
+  ☐ Luogu-P5009 不老梦
+  ☐ Luogu-P5906 【模板】回滚莫队&不删除莫队
+  ☐ CF920F SUM and REPLACE
+  ☐ Luogu-P4887 【模板】莫队二次离线
+  ☐ Luogu-P5268 一个简单的询问
+  ☐ Luogu-P3645 雅加达的摩天楼
+  ☐ Luogu-P7764 Luogu-Poklon
+  ☐ Luogu-P6349 Kangaroos
+  ☐ Luogu-P3591 ODW
+  ☐ Luogu-P4137 Rmq Problem / mex
+  ☐ CF940F Machine Learning
+  ☐ Luogu-P3863 序列
+  ☐ Luogu-P3707 相关分析
+  ☐ Luogu-P4074 糖果公园
+  ☐ Luogu-P3203 弹飞绵羊
+  ☐ Luogu-P5386 数字游戏
+  ☐ Luogu-P3710 方方方的数据结构
+  ☐ Luogu-P8078 秃子酋长
+  ☐ Luogu-P5692 手牵手走向明天
+  ☐ CF765F Souvenirs
+  ⚠ **Ynoi** ⚠
+  ☐ Luogu-P4689 这是我自己的发明
+  ☐ Luogu-P5397 天降之物
+  ☐ Luogu-P4117 五彩斑斓的世界
+  ☐ Luogu-P4119 未来日记
+  ☐ Luogu-P4118 末日时在做什么？有没有空？可以来拯救吗？
+  ☐ Luogu-P5399 駄作
+  ☐ Luogu-P6578 魔法少女网站
+  ☐ Luogu-P6580 美好的每一天~ 不连续的存在
+  ☐ Luogu-P6579 Happy Sugar Life
+  ☐ Luogu-P5398 GOSICK
+
+2022.9.8 线段树专题:
+
+  ✔ HDU-6967 I love data structure @done (22-09-09 21:14)
+  ✔ Luogu-P4560 Wall 砖墙 @done (22-09-09 21:14)
+  ☐ abc248_ex Beautiful Subsequences
+  ✔ Luogu-P5579 Siano @done (22-09-09 21:15)
+  ✔ Luogu-P2894 Hotel G @done (22-09-09 21:15)
+  ✔ Luogu-P3960 列队 @done (22-09-09 21:16)
+  ✔ Luogu-P7252 棒棒糖 @done (22-09-09 21:16)
+  ✔ CF786C Till I Collapse @done (22-09-09 21:17)
+  ✔ Luogu-P5787 【模板】线段树分治 @done (22-09-09 21:17)
+
+2022.9.9 莫比乌斯反演专题:
+
+  ✔ CF1295D Same GCDs @done (22-09-09 20:04)
+  ✔ Luogu-P2155 沙拉公主的困惑 @done (22-09-09 20:04)
+  ✔ Luogu-P2350 外星人 @done (22-09-09 20:04)
+  ✔ Luogu-P2303 Longge 的问题 @done (22-09-09 20:05)
+  ✔ Luogu-P2568 GCD @done (22-09-09 20:44)
+  ✔ HDU-6265 Master of Phi @done (22-09-09 20:44)
+  ✔ CF1114F Please, another Queries on Array? @done (22-09-09 20:45)
+  ☐ CF870F Paths
