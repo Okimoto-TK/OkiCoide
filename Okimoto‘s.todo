@@ -1,8 +1,29 @@
-2022年·第〇阶段 CSP2022前:
+2022年·第〇阶段 NOIP2022:
 
-  ☐ 2022.9.20前，清空 2022年·第〇阶段 所有题目 @critical
-  ☐ 2022.9.30前，完成对 2022年·第〇阶段 中五分之一以上题目的复盘和笔记撰写 @high
-  ☐ 2022.10.7前，完成对 2022年·第壹阶段 题单的总体规划部署 @low
+  ☐ 2022.11.25前，清空 2022年·第〇阶段 所有题目 @critical
+    ✔ 2022.8.1 贪心基础专题 @done (22-09-24 09:48)
+    ✔ 2022.8.7 图论基础专题（tarjan） @done (22-09-24 09:48)
+    ✔ 2022.8.12 积性函数基础 @done (22-09-24 09:48)
+    ☐ 2022.8.15 混合专题训练（DP和图论建模）
+    ☐ 2022.8.16 混合专题训练（栈和线段树）
+    ☐ 2022.8.18 混合专题训练（连通块，树和DP）
+    ☐ 2022.8.19 数据结构优化专题
+    ☐ 2022.8.20 莫比乌斯反演专题
+    ☐ 2022.8.27 线性代数专题（矩阵加速、高斯消元和线性基）
+    ☐ 2022.9.4 NOIP模拟赛
+    ☐ 2022.9.5 组合数学与期望专题
+    ☐ 2022.9.8 线段树专题
+    ☐ 2022.9.9 莫比乌斯反演专题
+    ☐ 2022.9.13 树专题
+    ☐ 2022.9.14 线性代数专题
+    ☐ 2022.9.19 线段树专题
+    ☐ 2022.9.20 交互构造专题
+    ☐ 2022.9.21 容斥专题
+    ☐ 2022.9.22 树专题
+    ☐ 2022.9.23 线性代数专题
+    
+  ☐ 2022.12.31前，完成对 2022年·第〇阶段 中重点题目的复盘和笔记撰写 @high
+  ☐ 2022.11.25前，完成对 2022年·第壹阶段 题单的总体规划部署 @low
 
 2022.8.1 贪心基础专题:
   
@@ -129,7 +150,7 @@
   ☐ Luogu-P4336 黑暗前的幻想乡
   ☐ Luogu-P3317 重建
   ☐ CF-959F Mahmoud and Ehab and yet another xor task
-  ☐ Luogu-P2044 随机数生成器 
+  ✔ Luogu-P2044 随机数生成器 @done (22-09-24 09:36)
   ☐ Luogu-P4455 社交网络
   ☐ CF-1100F Ivan and Burgers
   ☐ CF917D Stranger Trees
@@ -178,7 +199,7 @@
   ✔ Luogu-P4135 作诗 @done (22-09-09 23:48)
   ✔ Luogu-P6177 【模板】树分块 @done (22-09-11 15:44)
   ✔ Luogu-P7424 天天爱射击 @done (22-09-11 22:12)
-  ☐ Luogu-P8330 众数
+  ✔ Luogu-P8330 众数 @done (22-09-17 11:25)
   ☐ Luogu-P5009 不老梦
   ☐ Luogu-P5906 【模板】回滚莫队&不删除莫队
   ☐ CF920F SUM and REPLACE
@@ -233,3 +254,105 @@
   ✔ HDU-6265 Master of Phi @done (22-09-09 20:44)
   ✔ CF1114F Please, another Queries on Array? @done (22-09-09 20:45)
   ☐ CF870F Paths 
+
+2022.9.13 树专题:
+
+  ✔ CF208E Blood Cousins @done (22-09-23 21:36)
+  ✔ CF1045D Interstellar battle @done (22-09-23 21:36)
+  ✔ Luogu-P4592 异或 @done (22-09-23 21:37)
+  ✔ Luogu-P6018 Fusion tree @done (22-09-23 21:37)
+  ✔ Luogu-P5901 regions @done (22-09-23 21:39)
+  ✔ Luogu-P5852 Bessie's Snow Cow P @done (22-09-23 21:39)
+  ☐ Luogu-P5904 HOT-Hotels
+  ☐ Luogu-P3521 ROT-Tree Rotations
+  ☐ Luogu-P6623 树
+  ☐ Luogu-P5298 Minimax
+  ☐ CF715C Digit Tree
+  ☐ Luogu-P4284 概率充电器
+  ✔ Luogu-P2495 消耗战 @done (22-09-23 21:41)
+  ☐ TC-SRM570_Div1_2 CentaurCompany
+
+2022.9.14 线性代数专题:
+
+  ☐ Luogu-P6772 美食家
+  ☐ BZOJ-3583 杰杰的女性朋友
+  ☐ CF506E Mr. Kitayuta's Gift
+  ☐ LibreOJ-6357 game
+  ☐ CF963E Circles of Waiting
+  ☐ yahoo_procon2019_qual_e Odd Subrectangles
+  ☐ TC-SRM494_Div1_3 KnightsOut
+  ✔ Luogu-P4151 最大XOR和路径 @done (22-09-23 21:49)
+  ☐ CF1336E1 Chiori and Doll Picking (easy version)
+  ☐ P7736 路径交点
+  ☐ LibreOJ-6074 子序列
+  ☐ P6624 作业题
+
+2022.9.19 线段树专题:
+
+  ✔ CF786B Legacy @done (22-09-23 21:52)
+  ✔ Luogu-P6348 Journeys @done (22-09-23 21:52)
+  ✔ Luogu-P3588 PUS @done (22-09-23 21:53)
+  ☐ CF1662F Antennas
+  ✔ CF750E New Year and Old Subsequence @done (22-09-23 21:53)
+  ✔ CF1401E Divide Square @done (22-09-23 21:54)
+  ☐ CF983D Arkady and Rectangles
+  ☐ Luogu-P3224 永无乡
+
+2022.9.20 交互构造专题:
+
+  ✔ CF388B Fox and Minimal path @done (22-09-23 21:54)
+  ✔ CF1305D Kuroni and the Celebration @done (22-09-23 21:55)
+  ✔ CF1685B Linguistics @done (22-09-23 21:55)
+  ✔ CF1375E Inversion SwapSort @done (22-09-23 21:56)
+  ✔ CF1305E Kuroni and the Score Distribution @done (22-09-23 21:56)
+  ✔ CF487C Prefix Product Sequence @done (22-09-23 21:56)
+  ✔ CF1174F Ehab and the Big Finale @done (22-09-23 21:56)
+  ☐ CF1677D Tokitsukaze and Permutations
+  ☐ arc136_e Non-coprime DAG
+  ☐ CF1444D Rectangular Polyline
+  ☐ CF1329D Dreamoon Likes Strings
+  ☐ CF1396E Distance Matching
+  ☐ CF1237H Balanced Reversals
+
+2022.9.21 容斥专题:
+
+  ☐ Luogu-P5400 随机立方体
+  ✔ CF990G GCD Counting @done (22-09-24 09:08)
+  ☐ agc028_d Chords
+  ☐ agc036_f Square Constraints
+  ✔ CF917D Stranger Trees @done (22-09-24 09:10)
+  ☐ Luogu-P3349 小星星
+  ☐ Luogu-P5405 氪金手游
+  ☐ CF814E An unavoidable detour for home
+  ☐ Luogu-P5379 令人难以忘记的题目名称
+
+2022.9.22 树专题:
+
+  ☐ SP16549 QTREE6 - Query on a tree VI
+  ☐ Luogu-P3233 世界树
+  ☐ Luogu-P5354 由乃的 OJ
+  ✔ LibreOJ-121 「离线可过」动态图连通性 @done (22-09-24 09:13)
+  ☐ Luogu-P6326 Shopping
+  ☐ HDU-5290 Bombing plan
+  ☐ CF603E Pastoral Oddities
+  ☐ agc014_e Blue and Red Tree
+  ☐ Luogu-P2680 运输计划
+  ☐ Luogu-P1600 天天爱跑步
+  ☐ P4211 LCA
+  ☐ P5024 保卫王国
+  ✔ CF600E Lomsat gelral @done (22-09-24 09:31)
+  ✔ CF685B Kay and Snowflake @done (22-09-24 09:31)
+  ✔ CF708C Centroids @done (22-09-24 09:31)
+  ✔ CF294E Shaass the Great @done (22-09-24 09:31)
+  ☐ Luogu-P5311 成都七中
+
+2022.9.23 线性代数专题:
+
+  ✔ Luogu-P4035 球形空间产生器 @done (22-09-24 09:34)
+  ☐ CF113D Museum
+  ✔ CF832E Vasya and Shifts @done (22-09-24 09:35)
+  ☐ Luogu-P8141 What’s Our Vector, Victor?
+  ✔ CF691E Xor-sequences @done (22-09-24 09:37)
+  ✔ CF1182E Product Oriented Recurrence @done (22-09-24 09:37)
+  ✔ CF718C Sasha and Array @done (22-09-24 09:37)
+  ✔ CF1609E William The Oblivious @done (22-09-24 09:37)
