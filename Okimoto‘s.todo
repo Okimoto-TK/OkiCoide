@@ -4,7 +4,7 @@
     ✔ 2022.8.1 贪心基础专题 @done (22-09-24 09:48)
     ✔ 2022.8.7 图论基础专题（tarjan） @done (22-09-24 09:48)
     ✔ 2022.8.12 积性函数基础 @done (22-09-24 09:48)
-    ☐ 2022.8.15 混合专题训练（DP和图论建模）
+    ✔ 2022.8.15 混合专题训练（DP和图论建模） @done (22-10-02 20:56)
     ☐ 2022.8.16 混合专题训练（栈和线段树）
     ☐ 2022.8.18 混合专题训练（连通块，树和DP）
     ☐ 2022.8.19 数据结构优化专题
@@ -21,17 +21,23 @@
     ☐ 2022.9.21 容斥专题
     ☐ 2022.9.22 树专题
     ☐ 2022.9.23 线性代数专题
+    ☐ 2022.9.24 DP专题
+    ☐ 2022.9.26 二分&贪心专题
+    ☐ 2022.9.27 DP专题
+    ☐ 2022.9.28 图论专题
+    ☐ 2022.9.29 动态规划&字符串专题
+    ☐ 2022.9.30 网络流专题
     
   ☐ 2022.12.31前，完成对 2022年·第〇阶段 中重点题目的复盘和笔记撰写 @high
   ☐ 2022.11.25前，完成对 2022年·第壹阶段 题单的总体规划部署 @low
 
 2022.8.1 贪心基础专题:
   
-  ✔ UVA-10382 Watering Grass @done (22-08-01 20:11)
-    ::LibreOJ-10002
-  ✔ UVA-1193 Radar Installation @done (22-08-01 20:53)
-    ::POJ-1328
-  ✔ POJ-1700 Crossing River @done (22-08-02 20:24)
+  ✔ UVA10382 Watering Grass @done (22-08-01 20:11)
+    ::LOJ10002
+  ✔ UVA1193 Radar Installation @done (22-08-01 20:53)
+    ::POJ1328
+  ✔ POJ1700 Crossing River @done (22-08-02 20:24)
     ::Luogu-P1809 过河问题
   ✔ Luogu-P3124 Trapped in the Haybales S @done (22-08-04 20:09)
   ✔ Luogu-P3076 Taxi G @done (22-08-06 19:45)
@@ -39,35 +45,35 @@
 2022.8.7 图论基础专题（tarjan）:
 
   ✔ Luogu-P1656 炸铁路 @done (22-08-07 20:02)
-  ✔ POJ-1144 Network @done (22-08-08 19:55)
-  ✔ UVA-10765 Doves and bombs @done (22-08-09 19:27)
-  ✔ POJ-1236 Network of Schools @done (22-08-10 19:38)
+  ✔ POJ1144 Network @done (22-08-08 19:55)
+  ✔ UVA10765 Doves and bombs @done (22-08-09 19:27)
+  ✔ POJ1236 Network of Schools @done (22-08-10 19:38)
     ::Luogu-P2812 [加强版]
-  ✔ POJ-2762 @done (22-08-10 20:11)
-  ✔ CF-1000E We Need More Bosses @done (22-08-11 20:14)
+  ✔ POJ2762 @done (22-08-10 20:11)
+  ✔ CF1000E We Need More Bosses @done (22-08-11 20:14)
 
 2022.8.12 积性函数基础:
 
-  ✔ POJ-2407 Relatives @done (22-08-13 19:29)
-  ✔ CF-1561D1 Up the Strip @done (22-08-13 20:01)
-  ✔ HDU-2824 The Euler function @done (22-08-14 19:42)
+  ✔ POJ2407 Relatives @done (22-08-13 19:29)
+  ✔ CF1561D1 Up the Strip @done (22-08-13 20:01)
+  ✔ HDU2824 The Euler function @done (22-08-14 19:42)
   ✔ Luogu-P2398 GCD SUM @done (22-08-14 20:00)
   ✔ Luogu-P3455 ZAP-Queries @done (22-08-14 20:31)
   ✔ Luogu-P6810 「MCOI-02」Convex Hull 凸包 @done (22-08-15 21:39)
-  ✔ BZOJ-2820 YY的GCD @done (22-08-16 22:11)
+  ✔ BZOJ2820 YY的GCD @done (22-08-16 22:11)
     ::Luogu-P2257
-  ✔ BZOJ-4804 欧拉心算 @done (22-08-16 23:28)
-  ✔ BZOJ-3518 点组计数 @done (22-08-17 22:58)
-  ✔ POJ-3090 Visible Lattice Points @done (22-08-18 22:05)
+  ✔ BZOJ4804 欧拉心算 @done (22-08-16 23:28)
+  ✔ BZOJ3518 点组计数 @done (22-08-17 22:58)
+  ✔ POJ3090 Visible Lattice Points @done (22-08-18 22:05)
   ✔ Luogu-P3312 数表 @done (22-08-17 22:41)
   ✔ Luogu-P2522 Problem b @done (22-08-18 21:52)
 
 2022.8.15 混合专题训练（DP和图论建模）:
 
   ✔ Luogu-P7587 MARS @done (22-08-15 20:29)
-  ☐ Luogu-P7759 PROCESOR
+  ✔ Luogu-P7759 PROCESOR @done (22-10-02 17:23)
   ✔ Luogu-P4622 JEDAN @done (22-08-15 20:29)
-  ☐ Luogu-P7752 PALETA
+  ✔ Luogu-P7752 PALETA @done (22-10-02 20:56)
   ✔ Luogu-P6418 ZABAVA @done (22-08-15 20:29)
   ✔ Luogu-P7676 TROKUTI @done (22-08-15 20:29)
   
@@ -91,14 +97,13 @@
 
 2022.8.19 数据结构优化专题:
 
-  ☐ CF-702F T-Shirts
+  ☐ CF702F T-Shirts
   ☐ HYSBZ-5312 冒险
-  ☐ UOJ-671 诡异操作
+  ☐ UOJ671 诡异操作
   ☐ Luogu-P6792 区间和
   ✔ Luogu-P3332 K大数查询 @done (22-08-20 09:41)
-  ☐ LibreOJ-121 动态图连通性
   ☐ Luogu-P4338 历史
-  ☐ Gym-102331J Jiry Matchings
+  ☐ Gym102331J Jiry Matchings
 
 2022.8.20 莫比乌斯反演专题:
 
@@ -111,7 +116,7 @@
   ✔ Luogu-P5221 Product @done (22-08-22 16:18)
   ✔ Luogu-P6156 简单题 @done (22-08-22 22:32)
   ✔ Luogu-P6222 简单题[加强版] @done (22-08-22 22:32)
-  ✔ CF-1139D Steps to One @done (22-08-23 15:33)
+  ✔ CF1139D Steps to One @done (22-08-23 15:33)
   ✔ Luogu-P3704 数字表格 @done (22-08-24 10:25)
   ✔ Luogu-P5518 幽灵乐团 @done (22-08-25 19:13)
   ✔ Luogu-P3700 小Q的表格 @done (22-08-26 17:31)
@@ -129,8 +134,8 @@
   ✔ Luogu-P4839 P哥的桶 @done (22-08-28 20:24)
   ✔ Luogu-P1707 刷题比赛 @done (22-08-29 10:48)
   ✔ Luogu-P2233 公交车路线 @done (22-08-29 14:43)
-  ✔ CF-845G Shortest Path Problem? @done (22-08-29 17:38)
-  ✔ CF-895C Square Subsets @done (22-08-29 19:06)
+  ✔ CF845G Shortest Path Problem? @done (22-08-29 17:38)
+  ✔ CF895C Square Subsets @done (22-08-29 19:06)
   ✔ Luogu-P5027 Barracuda @done (22-08-30 09:40)
   ✔ Luogu-P2151 HH去散步 @done (22-08-30 11:43)
   ✔ Luogu-P2011 计算电压 @done (22-08-30 15:22)
@@ -142,17 +147,17 @@
   ✔ Luogu-P4159 迷路 @done (22-08-31 11:21)
   ✔ Luogu-P2973 Driving Out the Piggies G @done (22-08-31 15:40)
   ✔ Luogu-P5607 无力回天 NOI2017 @done (22-08-31 19:14)
-  ✔ CF-587E Duff as a Queen @done (22-08-31 19:40)
+  ✔ CF587E Duff as a Queen @done (22-08-31 19:40)
   ✔ Luogu-P1397 矩阵游戏 @done (22-08-31 20:21)
   ✔ Luogu-P7112 【模板】行列式求值 @done (22-09-03 19:49)
   ✔ Luogu-P6178 【模板】Matrix-Tree 定理 @done (22-09-03 20:43)
   ✔ Luogu-P4111 小Z的房间 @done (22-09-03 21:34)
   ☐ Luogu-P4336 黑暗前的幻想乡
   ☐ Luogu-P3317 重建
-  ☐ CF-959F Mahmoud and Ehab and yet another xor task
+  ☐ CF959F Mahmoud and Ehab and yet another xor task
   ✔ Luogu-P2044 随机数生成器 @done (22-09-24 09:36)
   ☐ Luogu-P4455 社交网络
-  ☐ CF-1100F Ivan and Burgers
+  ☐ CF1100F Ivan and Burgers
   ☐ CF917D Stranger Trees
   ☐ P3292 [SCOI2016]幸运数字
   ☐ CF578F Mirror Box
@@ -162,7 +167,7 @@
 
 2022.9.4 NOIP模拟赛:
 
-  ✔ Gym-103687L Candy Machine @done (22-09-04 14:55)
+  ✔ Gym103687L Candy Machine @done (22-09-04 14:55)
   ✔ Hydro-SZMS 2022P6 数列 @done (22-09-04 19:05)
   ☐ Hydro-SZMS 2022P7 方差
   ☐ Hydro-SZMS 2022P8 棋局
@@ -175,7 +180,7 @@
   ✔ CF1204E Natasha, Sasha and the Prefix Sums @done (22-09-05 13:53)
   ✔ CF1540B Tree Array @done (22-09-05 16:01)
   ✔ agc028_b Removing Blocks @done (22-09-05 20:59)
-  ✔ HDU-3723 Delta Wave @done (22-09-06 09:20)
+  ✔ HDU3723 Delta Wave @done (22-09-06 09:20)
   ✔ Luogu-P5155 Balance Beam P @done (22-09-06 14:13)
   ✔ agc024_e Sequence Growing Hard @done (22-09-06 20:09)
   ✔ agc013_e Placing Squares @done (22-09-06 22:32)
@@ -234,7 +239,7 @@
 
 2022.9.8 线段树专题:
 
-  ✔ HDU-6967 I love data structure @done (22-09-09 21:14)
+  ✔ HDU6967 I love data structure @done (22-09-09 21:14)
   ✔ Luogu-P4560 Wall 砖墙 @done (22-09-09 21:14)
   ☐ abc248_ex Beautiful Subsequences
   ✔ Luogu-P5579 Siano @done (22-09-09 21:15)
@@ -251,7 +256,7 @@
   ✔ Luogu-P2350 外星人 @done (22-09-09 20:04)
   ✔ Luogu-P2303 Longge 的问题 @done (22-09-09 20:05)
   ✔ Luogu-P2568 GCD @done (22-09-09 20:44)
-  ✔ HDU-6265 Master of Phi @done (22-09-09 20:44)
+  ✔ HDU6265 Master of Phi @done (22-09-09 20:44)
   ✔ CF1114F Please, another Queries on Array? @done (22-09-09 20:45)
   ☐ CF870F Paths 
 
@@ -275,16 +280,16 @@
 2022.9.14 线性代数专题:
 
   ☐ Luogu-P6772 美食家
-  ☐ BZOJ-3583 杰杰的女性朋友
+  ☐ BZOJ3583 杰杰的女性朋友
   ☐ CF506E Mr. Kitayuta's Gift
-  ☐ LibreOJ-6357 game
+  ☐ LOJ6357 game
   ☐ CF963E Circles of Waiting
   ☐ yahoo_procon2019_qual_e Odd Subrectangles
   ☐ TC-SRM494_Div1_3 KnightsOut
   ✔ Luogu-P4151 最大XOR和路径 @done (22-09-23 21:49)
   ☐ CF1336E1 Chiori and Doll Picking (easy version)
   ☐ P7736 路径交点
-  ☐ LibreOJ-6074 子序列
+  ☐ LOJ6074 子序列
   ☐ P6624 作业题
 
 2022.9.19 线段树专题:
@@ -331,9 +336,9 @@
   ☐ SP16549 QTREE6 - Query on a tree VI
   ☐ Luogu-P3233 世界树
   ☐ Luogu-P5354 由乃的 OJ
-  ✔ LibreOJ-121 「离线可过」动态图连通性 @done (22-09-24 09:13)
+  ✔ LOJ-121 「离线可过」动态图连通性 @done (22-09-24 09:13)
   ☐ Luogu-P6326 Shopping
-  ☐ HDU-5290 Bombing plan
+  ☐ HDU5290 Bombing plan
   ☐ CF603E Pastoral Oddities
   ☐ agc014_e Blue and Red Tree
   ☐ Luogu-P2680 运输计划
@@ -369,3 +374,81 @@
   ☐ CF509C Sums of Digits
   ☐ Luogu-P1241 括号序列
   ☐ CF1152D Neko and Aki's Prank
+
+2022.9.26 二分&贪心专题:
+
+  ☐ Luogu-P7459 Reservoir Dog
+  ✔ CF1610E AmShZ and G.O.A.T. @done (22-10-02 11:35)
+  ☐ CF1307D Cow and Fields
+  ☐ CF715B Complete The Graph
+  ☐ CF1608E The Cells on the Paper
+  ☐ CF1592D Hemose in ICPC ?
+  ☐ CF1033E Hidden Bipartite Graph
+  ✔ Luogu-P3545 HUR-Warehouse Store @done (22-10-02 11:37)
+  ✔ Luogu-P1792 种树 @done (22-10-02 11:37)
+  ✔ agc019_b Reverse and Compare @done (22-10-02 11:37)
+  ☐ LOJ6035 洗衣服
+
+2022.9.27 DP专题:
+
+  ✔ TC-SRM563_Div1_2 SpellCards @done (22-10-02 11:40)
+  ✔ BZOJ3329 Xorequ @done (22-10-02 11:41)
+  ☐ BZOJ1814 Formula 1
+  ✔ Luogu-P5504 柠檬 @done (22-10-02 11:42)
+  ✔ CF571B Minimization @done (22-10-02 11:42)
+  ✔ Luogu-P2900 Land Acquisition G @done (22-10-02 11:43)
+  ☐ Luogu-P4007 小 Y 和恐怖的奴隶主
+  ✔ TC-SRM420_Div1_2 RedIsGood @done (22-10-02 11:44)
+  ☐ Luogu-P3592 MYJ
+  ☐ TC-SRM586_Div2_3 StringWeight
+  ☐ TC-SRM580_Div1_3 WallGameDiv1
+  ☐ TC-SRM713_Div1_2 DFSCount
+
+2022.9.28 图论专题:
+
+  ✔ SCU4444 Travel @done (22-10-02 11:47)
+  ✔ BZOJ2259 新型计算机 @done (22-10-02 11:48)
+  ✔ Luogu-P2371 墨墨的等式 @done (22-10-02 11:48)
+  ☐ Luogu-P5292 校园旅行
+  ☐ TC-SRM563_Div1_3 CoinsGame
+  ☐ CF1305G Kuroni and Antihype
+  ☐ CF843D Dynamic Shortest Path
+  ☐ URAL2127 Determinant of a Graph
+  ☐ CF1407E Egor in the Republic of Dagestan
+  ☐ UOJ210 寻找罪犯
+  ✔ BZOJ3706 反色刷 @done (22-10-02 13:44)
+  ☐ Luogu-P4494 反色游戏
+  ✔ Luogu-P2057 善意的投票 / 冠军调查 @done (22-10-02 13:45)
+  ☐ BZOJ4973 比特战争
+
+2022.9.29 动态规划&字符串专题:
+
+  ☐ CF868E Policeman and a Tree
+  ☐ CF762F Tree nesting
+  ✔ Luogu-P5336 成绩单 @done (22-10-02 13:47)
+  ☐ LOJ6240 仙人掌
+  ☐ Gym102538H Horrible Cycles
+  ✔ asaporo2_f Unicyclic Graph Counting @done (22-10-02 13:50)
+  ☐ HDU3746 Cyclic Nacklace
+  ✔ Luogu-P5256 编程作业 @done (22-10-02 13:50)
+  ✔ CF471D MUH and Cube Walls @done (22-10-02 13:50)
+  ☐ Gym101981G Mediocre String Problem
+  ☐ P4555 最长双回文串
+  ☐ P4112 最短不公共子串
+  ☐ P2414 阿狸的打字机
+  ☐ CF587F Duff is Mad
+
+2022.9.30 网络流专题:
+
+  ☐ CF884F Anti-Palindromize
+  ✔ BZOJ4205 卡牌配对 @done (22-10-02 13:52)
+  ✔ UOJ77 A+B Problem @done (22-10-02 13:53)
+    ::BZOJ3218
+  ☐ SP839 OPTM - Optimal Marks
+    ::BZOJ2400
+  ☐ agc038_f Two Permutations
+  ☐ P4897 最小割树
+  ☐ Gym102341B Bulbasaur
+  ☐ Gym102482C Conquer the World
+  ☐ BZOJ3693 圆桌会议
+  ☐ Gym102220A Apple Business
